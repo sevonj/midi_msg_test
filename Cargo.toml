@@ -1,0 +1,7 @@
+[package]
+name = "midi_msg_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+midi-msg = "0.7.3"
