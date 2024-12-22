@@ -1,2 +1,11 @@
 /target
+
+# Samples
 samples/
+*.mid
+*.sf2
+
+# logs
+*.txt
+*.json
+
